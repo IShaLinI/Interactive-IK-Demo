@@ -1,1 +1,0 @@
-posHeader.set_alpha(255)
